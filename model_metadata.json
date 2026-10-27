@@ -1,0 +1,13 @@
+{
+  "target": "GPA",
+  "feature_columns": [
+    "Study_Hours_Per_Day",
+    "Extracurricular_Hours_Per_Day",
+    "Sleep_Hours_Per_Day",
+    "Social_Hours_Per_Day",
+    "Physical_Activity_Hours_Per_Day",
+    "Stress_Level"
+  ],
+  "selected_model": "Linear Regression",
+  "dataset_source": "https://www.kaggle.com/dsv/9876359"
+}
