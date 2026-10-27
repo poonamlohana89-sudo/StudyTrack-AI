@@ -4,3 +4,4 @@ joblib
 plotly
 scikit-learn
 statsmodels
+scikit-learn==1.6.1
